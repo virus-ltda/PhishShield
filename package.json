@@ -1,0 +1,13 @@
+{
+  "name": "mi-proyecto-phishshield",
+  "version": "1.0.0",
+  "description": "Plataforma de simulación y entrenamiento contra ataques de phishing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
